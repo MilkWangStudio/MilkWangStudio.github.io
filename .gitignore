@@ -9,3 +9,5 @@ package-lock.json
 coverage/
 .tmp*
 public
+db.json
+.deploy_git
